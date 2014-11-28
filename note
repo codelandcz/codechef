@@ -1,0 +1,56 @@
+What I did ?
+
+    Solved about 300 problems on SPOJ in this order - Sphere Online Judge (SPOJ) 
+
+
+Result ?
+
+    Became very good with C++ and STL
+    Got introduced to most Competitive programming KEYWORDS (like DP, maxflow, sets, hashing, etc)
+    Learned Standard Problems and Algorithms
+    Indenting code
+    Fast typing :P
+
+
+How ?
+Before starting programming, I searched about how and where to start, many said "Learn an Algorithm, implement it, solve  problems related to it". I did not do it that way, If you know what algorithm to use you generally think in that direction and leave about correctness.  I did them problem by problem, easy to hard, I spent 1 - 4 hours on a problem.
+I get the idea, I code it, Get it Accepted. (I used to test a lot, I always wanted to get AC on first go)
+
+I do not get the idea, I save that problem and try it after a month again. If I still do not get them, then search for hints. If it clearly needed some algorithm which I never used then I first smile (? I could not only because I did not knew the algorithm :P ) and then start reading about that algorithm. TopCoder had tutorials of almost all common algorithms. This is where I did a BIG MISTAKE. I never cared about correctness or run-time analysis proof, I always learned how to solve the problem using that algorithm, I hardly learned about how the algorithm works. I feel bad about it now, but that is how I solved those problems then. I solved max-flow, convex hull, etc., problems using described algorithms but I did not UNDERSTAND those algorithms then.
+
+Mistake: Once I started taking part in contests, I completely stopped practice.
+
+35th in Global Ranking
+
+    CodeChef long contests are comparatively easy ( Which is good, You can learn a lot), you get a lot of time to think about a problem, search for resources. You only need KEYWORDS to search for similar problems.
+    I gave a lot of time for each contest. I used to solve 4 easy problems in 2-3 days, then take 5-6 days for other 3 problems.
+    CodeChef rating system is not good. It is highly Volatile.
+
+
+If I am to start programming now, I would do it this way
+
+    Solve 200 most solved problems on SPOJ, Problem by problem. In 2 months.
+    (This will teach all standard problems, algorithms and implementation skills)
+    Solve problems from CodeChef and CodeForces for 2 months.
+    (This will teach variations, we can read others solutions and learn better ways. Skip easy problems)
+    Solve problems from TopCoder for 2 months.
+    (This will teach  Dynamic Programming. Div 1 500p)
+    Check past ACM ICPC Regional's Problems
+    (Great quality problems)
+
+
+If I am to learn a new Algorithm now, I would do it this way
+
+    Read it from at least 3-4 different sources.
+    Understand correctness proof and run-time analysis.
+    (This is very very important, you will know it only when you  deal with non standard  and hard problems)
+    Question yourself on every step for correctness. Try to tweak the implementation.
+    Check other implementations.
+
+
+Final Note
+Thought I became good in solving problems and had good rank. I later(Feb 13) realized that I learned it the wrong way. I then started learning again. I learned all the algorithms again this time gave importance to the algorithm itself, correctness proof and mathematical analysis. It is worth the time.
+
+Lucy and the Flowers - Problem from December long contest, Try to solve it with suffix arrays. You can only if you understand suffix arrays and LCP completely.
+
+I was able to solve a not-so-obvious medium level Max-Flow problem at ACM KGP Onsite only because I completely understood how the algorithm works. It was at 4 hour 25 minutes I got 5th problem accepted, then I read this problem and got it accepted 4 minutes before end. Learning the algorithm helped. Dot.
